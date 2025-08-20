@@ -182,8 +182,6 @@ Your Excel file should contain **two sheets**:
 
 ## 🎨 Screenshots & Visualizations
 
-> **Note**: Add your dashboard screenshots here to showcase the interface and visualizations
-
 ### **Main Dashboard Interface**
 ![Main Dashboard](screenshots/main-dashboard.png)
 *Overview of the main dashboard with key metrics and navigation tabs*
